@@ -265,7 +265,7 @@ span.pricing-feature-tick{display:inline-flex;width:32px;height:32px;justify-con
 }
 @media (min-width: 1400px) {
     .logo {
-        width: 50%;
+        width: 100%;
     }
 }
 .stat-info .state-name{color:#faffff;font-size:20px;font-weight:400;line-height:20px}
