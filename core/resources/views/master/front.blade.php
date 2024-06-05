@@ -336,7 +336,7 @@ body_theme4 @endif
                 </div>
                 <div class="d-flex justify-content-center logo-wrap-main">
                     <a class="text-center" href="{{ route('front.index') }}">
-                        <img src="{{ asset('assets/frontend/images/logo-reyarosette.png') }}" alt="Logo" class="img-fluid logo" /></a>
+                        <img src="{{ asset('assets/frontend/images/logoreyarosette.png') }}" alt="Logo" class="img-fluid logo" /></a>
                 </div>
                 <div class="d-flex align-items-center">
                     <div class="d-none d-lg-block">
