@@ -472,7 +472,7 @@ body_theme4 @endif
                 </div>
                 <div class="logo-wrap-mobile d-flex align-items-center justify-content-center flex-grow-1">
                     <a class="text-center" href="{{ route('front.index') }}">
-                        <img src="{{ asset('assets/frontend/images/logo-main.png') }}" alt="Logo" class="logo-mobile" />
+                        <img src="{{ asset('assets/frontend/images/logo-reyarosette.png') }}" alt="Logo" class="logo-mobile" />
                     </a>
                 </div>
                 <div class="position-relative cart-icons">
