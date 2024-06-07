@@ -288,7 +288,7 @@
                                             @endforeach
                                         </select>
                                     </div>
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label for="feature_subcategory_id4">{{ __('Select Sub Category') }} </label>
                                         <select name="subcategory_id4" id="feature_subcategory_id4" class="form-control"
                                             data-href="{{ route('back.get.childcategory') }}">
@@ -299,7 +299,7 @@
                                                     {{ $subcat->name }}</option>
                                             @endforeach
                                         </select>
-                                    </div>
+                                    </div> -->
 
                                     <div class="form-group">
                                         <label for="feature_childcategory_id4">{{ __('Select Child Category') }} </label>
