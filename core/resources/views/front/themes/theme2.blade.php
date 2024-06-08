@@ -273,7 +273,7 @@
                                 <div class="col-lg-4 position-relative">
                                     <div class="h-100 p-8 bg-green-light food-box-item foodox-item-2">
                                         <div class="img-wrapp content-box-1-img overflow-hidden py-4">
-                                            <img src="{{ asset('assets/frontend/images/best-prod-2.png') }}" alt="first food box" class="best-prod-img no-download" />
+                                            <img src="{{ asset('assets/frontend/images/braccelet-removebg-preview.png') }}" alt="first food box" class="best-prod-img no-download" />
                                         </div>
                                         <div class="content-box ">
                                             <div class="ps-8 ps-lg-0">
