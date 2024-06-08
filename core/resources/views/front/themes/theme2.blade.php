@@ -208,19 +208,18 @@
                         </h2>
                     </div>
                     <div class="col-lg-7 bg-gray-100 py-8 py-lg-12 px-12 px-lg-80 order-4 order-lg-4">
-                        <h3 class="heading-h3 text-dark mb-6 mg-lg-8r">
-                            Discover our collection of bakery boxes! We have a wide
-                            selection of boxes to suit all pastry creations:
-                        </h3>
-                        <p class="text-dark fs-16 mb-10">
-                            Welcome to IN TOO BOX! You're in the perfect place to find the
-                            most beautiful boxes available on the internet. Here you can
-                            findgift boxes of all shapes and colours to make your gifts
-                            shine. Enter our catalogue of creativity and find gift boxes
-                            that will brighten up anyone's day. It almost doesn't matter
-                            what goes inside, with ourgift boxes you are sure to impress!
-                            Discover them!
-                        </p>
+                    <h3 class="heading-h3 text-dark mb-6 mg-lg-8r">
+    Discover our collection of fashion accessories! We have a wide
+    selection of wallets, jewelry, handbags, and shoes to suit every style:
+</h3>
+<p class="text-dark fs-16 mb-10">
+    Welcome to Fashion Haven! You're in the perfect place to find the
+    most stunning accessories available on the internet. Here you can
+    find wallets, jewelry, handbags, and shoes in various designs and
+    colors to elevate your look. Enter our catalogue of style and find
+    accessories that will enhance any outfit. No matter the occasion,
+    with our accessories you are sure to impress! Discover them!
+</p>
                         <div class="view-more">
                             <a href="#" class="btn btn-outline-danger text-uppercase text-sm fw-bold w-auto border border-2 border-danger shadow-none px-4 py-2 rounded-pill text-dark">
                                 View More
@@ -238,14 +237,13 @@
         <section class="best-selling-section py-12 py-lg-60">
             <div class="container-fluid container-5xl px-4 px-md-6 px-lg-8 px-5xl-0">
                 <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
-                    Best Selling Food Boxes
+                Top Picks in Fashion Accessories
                 </h2>
                 <p class="text-muted w-100 w-md-80 w-lg-70 mx-auto lh-base text-center mt-2 mb-0">
-                    Discover our wide range of food boxes and cardboard packaging for
-                    take away food available in different formats. <br>The take away food
-                    packaging is perfect for restaurants, bars, delivery businesses,
-                    caterings or for private use.
-                </p>
+    Explore our diverse collection of wallets, jewelry, handbags, and shoes, available in various styles and designs. <br>
+    Our range of accessories is perfect for fashion-forward individuals, retail businesses, gift shops, or personal use.
+</p>
+
                 <div class="mt-6 mt-8">
                     <div class="row g-4">
                         <div class="col-lg-8">
@@ -377,13 +375,14 @@
         <!-- gift box section starts here -->
         <section class="gift-section" id=sec-2-giftbox>
             <div class="container">
-                <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
-                    Super cool Gift box
-                </h2>
-                <p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
-                    It almost doesn't matter what goes inside, with ourgift boxes you
-                    are sure to impress! Discover them
-                </p>
+            <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
+    Stylish Fashion Accessories
+</h2>
+<p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
+    It almost doesn't matter what you wear, with our accessories you
+    are sure to impress! Discover them today.
+</p>
+
                 <div class="mt-6 w-100 w-lg-90 w-5xl-100 mx-auto mt-8">
                     <div class="row g-4">
                         @foreach ($select_8_item_home as $item)
@@ -524,14 +523,14 @@
         <!-- luxury box section starts here -->
         <section class="luxury-section py-12 py-lg-60" id="luxpadd">
             <div class="container-fluid container-5xl px-4 px-md-6 px-lg-8 px-5xl-0">
-                <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
-                    Luxury Packaging Boxes
-                </h2>
-                <p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
-                    The luxury cardboard boxes have all the characteristics that define
-                    a premium packaging<br> quality of materials, solidity, textures, and
-                    also ecological.
-                </p>
+            <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
+    Fashion Accessories Collection
+</h2>
+<p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
+    Our fashion accessories boast premium style with superior materials, durability, and design.<br>
+    Each piece is crafted with attention to detail, ensuring they look great and stand the test of time.
+</p>
+
                 <div class="mt-6 mt-8">
                     <div class="row g-4">
                         <div class="col-md-6 position-relative col-lg-3 d-flex flex-column align-items-center overflow-hidden">
