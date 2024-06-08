@@ -288,18 +288,7 @@
                                             @endforeach
                                         </select>
                                     </div>
-                                    <!-- <div class="form-group">
-                                        <label for="feature_subcategory_id4">{{ __('Select Sub Category') }} </label>
-                                        <select name="subcategory_id4" id="feature_subcategory_id4" class="form-control"
-                                            data-href="{{ route('back.get.childcategory') }}">
-                                            <option value="">{{ __('Select one') }}</option>
-                                            @foreach (DB::table('subcategories')->where('category_id', $feature_category['category_id4'])->whereStatus(1)->get() as $subcat)
-                                                <option value="{{ $subcat->id }}"
-                                                    {{ $subcat->id == $feature_category['subcategory_id4'] ? 'selected' : '' }}>
-                                                    {{ $subcat->name }}</option>
-                                            @endforeach
-                                        </select>
-                                    </div> -->
+                                    
 
                                     <div class="form-group">
                                         <label for="feature_childcategory_id4">{{ __('Select Child Category') }} </label>
