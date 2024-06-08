@@ -253,7 +253,7 @@
                                 <div class="col-lg-8">
                                     <div class="h-100 p-8 d-flex flex-column flex-lg-row align-items-start bg-red-light food-box-item foodox-item-1">
                                         <div class="img-wrapp">
-                                            <img src="{{ asset('assets/frontend/images/best-prod-1.png') }}" alt="first food box" class="best-prod-img no-download" />
+                                            <img src="{{ asset('assets/frontend/images/handbag11-removebg-preview.png') }}" alt="first food box" class="best-prod-img no-download" />
                                         </div>
                                         <div class="ps-0 mt-4 mt-lg-0 ps-lg-12">
                                             <p class="text-danger fs-14 mb-0 fw-semibold">
