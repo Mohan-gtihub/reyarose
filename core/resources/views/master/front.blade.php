@@ -675,7 +675,7 @@ body_theme4 @endif
                                     Email: {{ $setting->footer_email }}
                                 </p>
                                 <p class="text-gray-700 fs-14 fw-semibold mb-4">
-                                    Web: www.intoobox.com
+                                    Web: www.reyarosette.com
                                 </p>
                             </div>
                             <div class="col-md-6 col-lg-2 ps-lg-6 mt-8 mt-md-0">
