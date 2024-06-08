@@ -238,14 +238,13 @@
         <section class="best-selling-section py-12 py-lg-60">
             <div class="container-fluid container-5xl px-4 px-md-6 px-lg-8 px-5xl-0">
                 <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
-                    Best Selling Food Boxes
+                Top Picks in Fashion Accessories
                 </h2>
                 <p class="text-muted w-100 w-md-80 w-lg-70 mx-auto lh-base text-center mt-2 mb-0">
-                    Discover our wide range of food boxes and cardboard packaging for
-                    take away food available in different formats. <br>The take away food
-                    packaging is perfect for restaurants, bars, delivery businesses,
-                    caterings or for private use.
-                </p>
+    Explore our diverse collection of wallets, jewelry, handbags, and shoes, available in various styles and designs. <br>
+    Our range of accessories is perfect for fashion-forward individuals, retail businesses, gift shops, or personal use.
+</p>
+
                 <div class="mt-6 mt-8">
                     <div class="row g-4">
                         <div class="col-lg-8">
