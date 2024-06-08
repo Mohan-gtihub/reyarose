@@ -375,13 +375,14 @@
         <!-- gift box section starts here -->
         <section class="gift-section" id=sec-2-giftbox>
             <div class="container">
-                <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
-                    Super cool Gift box
-                </h2>
-                <p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
-                    It almost doesn't matter what goes inside, with ourgift boxes you
-                    are sure to impress! Discover them
-                </p>
+            <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
+    Stylish Fashion Accessories
+</h2>
+<p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
+    It almost doesn't matter what you wear, with our accessories you
+    are sure to impress! Discover them today.
+</p>
+
                 <div class="mt-6 w-100 w-lg-90 w-5xl-100 mx-auto mt-8">
                     <div class="row g-4">
                         @foreach ($select_8_item_home as $item)
