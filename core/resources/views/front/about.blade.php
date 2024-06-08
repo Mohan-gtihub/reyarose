@@ -31,14 +31,11 @@
                     <img src="{{ asset('assets/frontend/images/about-img-1.png') }}" alt="" class="about-img" />
                 </div>
                 <h4 class="heading-h4 fw-bold mb-0 mt-4">
-                    Know More About IN TOO BOX
+                    
+Know More About Reya Rosette
                 </h4>
                 <p class="text-muted mb-0 mt-4">
-                    Our aim is to offer our clients with reliable packaging solutions
-                    that are both practical and cost effective. We seek to adapt and
-                    be in trend with the latest packing needs and ensure customer's
-                    satisfaction with our diverse range of products while providing
-                    our customers with reliable and efficient customer service.
+                Our aim is to offer our clients reliable and exquisite products that are both practical and cost-effective. We seek to stay in trend with the latest fashion needs and ensure customer satisfaction with our diverse range of products, while providing our customers with reliable and efficient customer service.
                 </p>
             </div>
             <div class="col-md-6 mt-6 mt-md-0 ps-md-6">
@@ -47,12 +44,7 @@
                 </div>
                 <h4 class="heading-h4 fw-bold mb-0 mt-4">Who We Are</h4>
                 <p class="text-muted mb-0 mt-4">
-                    Established in Year 2022, In Too Box has been designing and
-                    manufacturing Standard Card Board Boxes, Rigid Boxes, Corporate
-                    Gifting, Protective Packaging and offering an extensive range of
-                    ancillary products to the wider Indian market. At In Too Box, our
-                    goal is to be more than just another supplier; we strive to be the
-                    easiest and most cost effective packaging supplier.
+                Reya Rosette has been designing and curating a wide range of handbags, jewelry, gifts, and accessories, offering an extensive selection to the wider Indian market. At Reya Rosette, our goal is to be more than just another supplier; we strive to be the easiest and most cost-effective provider of stylish and high-quality fashion items.
                 </p>
             </div>
         </div>

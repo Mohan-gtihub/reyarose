@@ -655,11 +655,11 @@ body_theme4 @endif
                                         Follow Us :
                                     </h6>
                                     <div class="footer-icon-social">
-                                        <a href="https://www.facebook.com/intoobox/" class="fab fa-facebook text-dark ms-2 bg-white"></a>
+                                        <a href="https://www.facebook.com/shop.reyarosette/" class="fab fa-facebook text-dark ms-2 bg-white"></a>
                                         <!-- Facebook -->
-                                        <a href="https://www.instagram.com/intoobox/" class="fab fa-instagram ms-2 text-dark bg-white"></a>
+                                        <a href="https://www.instagram.com/reyarosette.in/" class="fab fa-instagram ms-2 text-dark bg-white"></a>
                                         <!-- Instagram -->
-                                        <a href="https://www.youtube.com/channel/UC4a0s-1yxtzi6otS-P_p3OA" class="fab fa-youtube ms-2 text-dark bg-white"></a>
+                                        <a href="https://x.com/reyarosette" class="fab fa-twitter ms-2 text-dark bg-white"></a>
                                         <!-- YouTube -->
                                         <a href="https://www.pinterest.com/" class="fab fa-pinterest ms-2 text-dark bg-white"></a>
                                         <!-- Pinterest -->
