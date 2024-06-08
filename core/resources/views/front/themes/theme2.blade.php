@@ -527,8 +527,7 @@
 </h2>
 <p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
     Our fashion accessories boast premium style with superior materials, durability, and design.<br>
-    Each piece is crafted with attention to detail, ensuring they look great and stand the test of time.<br>
-    From chic handbags and stylish wallets to elegant jewelry and trendy shoes, discover the perfect blend of fashion and function.
+    Each piece is crafted with attention to detail, ensuring they look great and stand the test of time.
 </p>
 
                 <div class="mt-6 mt-8">
