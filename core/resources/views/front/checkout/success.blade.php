@@ -81,7 +81,7 @@
                   <p
                     class="text-center fs-16 mt-4 mb-0 text-muted text-uppercase"
                   >
-                    For choosing <span class="fw-bold">In Too Box</span>
+                    For choosing <span class="fw-bold">Reyarosette</span>
                   </p>
                   <div class="mt-12">
                     <p class="text-center fs-16 mb-6 text-muted">

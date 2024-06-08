@@ -230,7 +230,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Add a marker with a popup
   var popup = L.popup([17.72775328710475, 83.30915399818795], {
     content:
-      "<h5 class='heading-h5 fw-bold mb-0 text-center'>In Too Box</h5><p class='text-muted mb-0 mt-1 text-center'>Phone: 0891 - 2507678 <br/> D. No. 48-7-55/1, Srinagar, VIZAG - 530 016.</p>",
+      "<h5 class='heading-h5 fw-bold mb-0 text-center'>Reya Rosettex</h5><p class='text-muted mb-0 mt-1 text-center'>Phone: 0891 - 2507678 <br/> D. No. 48-7-55/1, Srinagar, VIZAG - 530 016.</p>",
   }).openOn(map);
 });
 </script>

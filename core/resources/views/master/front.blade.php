@@ -748,7 +748,7 @@ body_theme4 @endif
                         <div class="header-bg d-flex flex-column flex-lg-row justify-content-between border-top py-6 mt-8  mb-16 mb-lg-0">
                             <p class="text-white fs-14 mb-0">
                                 Copyright © {{ date('Y') }}
-                                <a href="" class="text-uppercase text-white fs-16 fw-semibold">IN TOO BOX</a>
+                                <a href="" class="text-uppercase text-white fs-16 fw-semibold">REYAROSETTE</a>
                                 . All rights reserved
                             </p>
                             <div class="d-flex mt-5 mt-lg-0">
