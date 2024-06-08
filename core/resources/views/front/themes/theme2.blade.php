@@ -208,19 +208,18 @@
                         </h2>
                     </div>
                     <div class="col-lg-7 bg-gray-100 py-8 py-lg-12 px-12 px-lg-80 order-4 order-lg-4">
-                        <h3 class="heading-h3 text-dark mb-6 mg-lg-8r">
-                            Discover our collection of bakery boxes! We have a wide
-                            selection of boxes to suit all pastry creations:
-                        </h3>
-                        <p class="text-dark fs-16 mb-10">
-                            Welcome to IN TOO BOX! You're in the perfect place to find the
-                            most beautiful boxes available on the internet. Here you can
-                            findgift boxes of all shapes and colours to make your gifts
-                            shine. Enter our catalogue of creativity and find gift boxes
-                            that will brighten up anyone's day. It almost doesn't matter
-                            what goes inside, with ourgift boxes you are sure to impress!
-                            Discover them!
-                        </p>
+                    <h3 class="heading-h3 text-dark mb-6 mg-lg-8r">
+    Discover our collection of fashion accessories! We have a wide
+    selection of wallets, jewelry, handbags, and shoes to suit every style:
+</h3>
+<p class="text-dark fs-16 mb-10">
+    Welcome to Fashion Haven! You're in the perfect place to find the
+    most stunning accessories available on the internet. Here you can
+    find wallets, jewelry, handbags, and shoes in various designs and
+    colors to elevate your look. Enter our catalogue of style and find
+    accessories that will enhance any outfit. No matter the occasion,
+    with our accessories you are sure to impress! Discover them!
+</p>
                         <div class="view-more">
                             <a href="#" class="btn btn-outline-danger text-uppercase text-sm fw-bold w-auto border border-2 border-danger shadow-none px-4 py-2 rounded-pill text-dark">
                                 View More
