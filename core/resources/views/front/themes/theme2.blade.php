@@ -522,14 +522,15 @@
         <!-- luxury box section starts here -->
         <section class="luxury-section py-12 py-lg-60" id="luxpadd">
             <div class="container-fluid container-5xl px-4 px-md-6 px-lg-8 px-5xl-0">
-                <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
-                    Luxury Packaging Boxes
-                </h2>
-                <p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
-                    The luxury cardboard boxes have all the characteristics that define
-                    a premium packaging<br> quality of materials, solidity, textures, and
-                    also ecological.
-                </p>
+            <h2 class="text-dark text-capitalize fw-semibold text-center heading-h2 mb-0">
+    Fashion Accessories Collection
+</h2>
+<p class="text-muted w-100 w-md-60 w-lg-50 mx-auto lh-base text-center mt-2 mb-0">
+    Our fashion accessories boast premium style with superior materials, durability, and design.<br>
+    Each piece is crafted with attention to detail, ensuring they look great and stand the test of time.<br>
+    From chic handbags and stylish wallets to elegant jewelry and trendy shoes, discover the perfect blend of fashion and function.
+</p>
+
                 <div class="mt-6 mt-8">
                     <div class="row g-4">
                         <div class="col-md-6 position-relative col-lg-3 d-flex flex-column align-items-center overflow-hidden">
